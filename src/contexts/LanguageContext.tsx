@@ -32,7 +32,7 @@ const translations: Record<Language, Record<string, string>> = {
     'about.story.p3': 'Fiz diversos estudos, cursos e me considero privilegiado, pois antes mesmo de cursar a graduação já tinha convicção da profissão que gostaria de seguir - TI (Sistemas de Informação). Cursei posteriormente universidade, MBA, fiz cursos preparatórios e importantes certificações para escrever a minha carreira profissional até aqui. E tem muito mais por vir!',
     'about.education.title': 'Formação',
     'about.education.degree': 'Sistemas de Informação',
-    'about.education.mba': 'MBA em Gestão de Projetos',
+    'about.education.mba': 'MBA em Gestão de Tecnologia de Informação',
     'about.certifications.title': 'Certificações',
     'about.values.title': 'Valores',
     'about.values.collaboration': 'Colaboração',
@@ -48,9 +48,9 @@ const translations: Record<Language, Record<string, string>> = {
     'experience.ml.desc': 'Liderança de Squad/Equipe, projetos LATAM, disseminador ágil, garantia do ciclo de vida das aplicações (Build & Run), propostas de melhorias para sistemas críticos em Pagamentos/Fintech.',
     'experience.porto.title': 'Team Leader - Projetos IT',
     'experience.porto.desc': 'Liderança da Squad, entendimento do escopo de negócio e técnico, disseminador da cultura ágil e melhores práticas.',
-    'experience.rede.title': 'Team Leader → Analista Sr (Projetos)',
+    'experience.rede.title': 'Team Leader - Analista Sr (Projetos)',
     'experience.rede.desc': 'Liderança da Squad, ritos ágeis, avaliação do negócio em parceria com PO, replicação da cultura ágil para empresa.',
-    'experience.atento.title': 'Analista Projetos → IT Support',
+    'experience.atento.title': 'Analista Projetos - IT Support',
     'experience.atento.desc': 'Gerência de projetos, controle de prazos, custos, qualidade. Gestão de equipes multidisciplinares.',
     
     // Services
@@ -117,7 +117,7 @@ const translations: Record<Language, Record<string, string>> = {
     'about.story.p3': 'I took various courses and consider myself privileged, because even before attending university I was already convinced of the profession I wanted to follow - IT (Information Systems). I later completed university, an MBA, preparatory courses and important certifications to write my professional career up to this point. And there\'s much more to come!',
     'about.education.title': 'Education',
     'about.education.degree': 'Information Systems',
-    'about.education.mba': 'MBA in Project Management',
+    'about.education.mba': 'MBA in Information Technology Management',
     'about.certifications.title': 'Certifications',
     'about.values.title': 'Values',
     'about.values.collaboration': 'Collaboration',
@@ -133,9 +133,9 @@ const translations: Record<Language, Record<string, string>> = {
     'experience.ml.desc': 'Squad/Team Leadership, LATAM projects, agile disseminator, application lifecycle management (Build & Run), improvement proposals for critical Payment/Fintech systems.',
     'experience.porto.title': 'Team Leader - IT Projects',
     'experience.porto.desc': 'Squad Leadership, business and technical scope understanding, agile culture disseminator and best practices.',
-    'experience.rede.title': 'Team Leader → Sr Analyst (Projects)',
+    'experience.rede.title': 'Team Leader - Sr Analyst (Projects)',
     'experience.rede.desc': 'Squad Leadership, agile rituals, business evaluation in partnership with PO, replicating agile culture across the company.',
-    'experience.atento.title': 'Project Analyst → IT Support',
+    'experience.atento.title': 'Project Analyst - IT Support',
     'experience.atento.desc': 'Project management, deadline control, costs, quality. Management of multidisciplinary teams.',
     
     // Services
@@ -202,7 +202,7 @@ const translations: Record<Language, Record<string, string>> = {
     'about.story.p3': 'Hice diversos estudios, cursos y me considero privilegiado, pues antes incluso de cursar la graduación ya tenía convicción de la profesión que me gustaría seguir - TI (Sistemas de Información). Cursé posteriormente universidad, MBA, hice cursos preparatorios e importantes certificaciones para escribir mi carrera profesional hasta aquí. ¡Y hay mucho más por venir!',
     'about.education.title': 'Formación',
     'about.education.degree': 'Sistemas de Información',
-    'about.education.mba': 'MBA en Gestión de Proyectos',
+    'about.education.mba': 'MBA en Gestión de Tecnología de la Información',
     'about.certifications.title': 'Certificaciones',
     'about.values.title': 'Valores',
     'about.values.collaboration': 'Colaboración',
@@ -218,9 +218,9 @@ const translations: Record<Language, Record<string, string>> = {
     'experience.ml.desc': 'Liderazgo de Squad/Equipo, proyectos LATAM, diseminador ágil, garantía del ciclo de vida de las aplicaciones (Build & Run), propuestas de mejoras para sistemas críticos en Pagos/Fintech.',
     'experience.porto.title': 'Team Leader - Proyectos IT',
     'experience.porto.desc': 'Liderazgo de Squad, entendimiento del alcance de negocio y técnico, diseminador de cultura ágil y mejores prácticas.',
-    'experience.rede.title': 'Team Leader → Analista Sr (Proyectos)',
+    'experience.rede.title': 'Team Leader - Analista Sr (Proyectos)',
     'experience.rede.desc': 'Liderazgo de Squad, ritos ágiles, evaluación del negocio en sociedad con PO, replicación de la cultura ágil para la empresa.',
-    'experience.atento.title': 'Analista Proyectos → IT Support',
+    'experience.atento.title': 'Analista Proyectos - IT Support',
     'experience.atento.desc': 'Gerencia de proyectos, control de plazos, costos, calidad. Gestión de equipos multidisciplinarios.',
     
     // Services
